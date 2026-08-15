@@ -15,6 +15,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0001-two-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -24,4 +25,8 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
