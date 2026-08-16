@@ -29,9 +29,38 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0001-two-sum) |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
