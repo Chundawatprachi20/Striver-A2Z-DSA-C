@@ -31,6 +31,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | ------- |
 | [0001-two-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0004-median-of-two-sorted-arrays) |
+| [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -97,4 +98,8 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
