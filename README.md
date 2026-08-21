@@ -22,6 +22,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -105,5 +106,14 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
