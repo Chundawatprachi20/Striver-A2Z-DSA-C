@@ -82,6 +82,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | ------- |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
