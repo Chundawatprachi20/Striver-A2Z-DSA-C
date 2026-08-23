@@ -23,6 +23,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
+| [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -80,6 +81,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -87,6 +89,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -99,6 +102,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
