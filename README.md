@@ -37,6 +37,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
 | [1386-cinema-seat-allocation](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -81,6 +82,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -94,6 +96,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -102,6 +105,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -111,12 +115,14 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
+| [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +139,8 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
