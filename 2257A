@@ -1,0 +1,70 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    int t;
+    cin >> t;
+
+    while (t--) {
+        int n, m;
+        cin >> n >> m;
+
+        bool available[26] = {false};
+
+        // Read ordinary words
+        for (int i = 0; i < n; i++) {
+            string s;
+            cin >> s;
+
+            available[s[0] - 'a'] = true;
+        }
+
+        vector<string> abbr(m);
+
+        for (int i = 0; i < m; i++) {
+            cin >> abbr[i];
+        }
+
+        bool done[105] = {false};
+        int formed = 0;
+
+        bool changed = true;
+
+        while (changed) {
+            changed = false;
+
+            for (int i = 0; i < m; i++) {
+                if (done[i])
+                    continue;
+
+                bool possible = true;
+
+                // Check whether all letters are available
+                for (char c : abbr[i]) {
+                    if (!available[c - 'A']) {
+                        possible = false;
+                        break;
+                    }
+                }
+
+                if (possible) {
+                    done[i] = true;
+                    formed++;
+
+                    // This abbreviation becomes a new word,
+                    // so its first letter is now available
+                    available[abbr[i][0] - 'A'] = true;
+
+                    changed = true;
+                }
+            }
+        }
+
+        if (formed == m)
+            cout << "YES\n";
+        else
+            cout << "NO\n";
+    }
+
+    return 0;
+}
