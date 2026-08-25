@@ -85,6 +85,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0007-reverse-integer) |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
