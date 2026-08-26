@@ -26,10 +26,12 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0006-zigzag-conversion) |
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
 |  |
