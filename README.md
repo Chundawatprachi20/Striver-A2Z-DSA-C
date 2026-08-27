@@ -20,6 +20,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -100,6 +102,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [1386-cinema-seat-allocation](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -109,6 +112,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
 | ------- |
@@ -150,4 +154,8 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
