@@ -47,6 +47,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [1386-cinema-seat-allocation](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -161,4 +162,12 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
