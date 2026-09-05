@@ -58,6 +58,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [3875-construct-uniform-parity-array-i](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -168,6 +169,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | ------- |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
