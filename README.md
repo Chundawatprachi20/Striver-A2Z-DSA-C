@@ -29,6 +29,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [0006-zigzag-conversion](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -148,6 +149,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [0005-longest-palindromic-substring](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
