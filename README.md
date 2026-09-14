@@ -103,6 +103,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0007-reverse-integer) |
+| [0836-rectangle-overlap](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
@@ -199,4 +200,8 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
