@@ -17,6 +17,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | ------- |
 | [0001-two-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -38,6 +39,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -48,6 +50,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
 | [1386-cinema-seat-allocation](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -73,6 +76,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0004-median-of-two-sorted-arrays) |
 | [0493-reverse-pairs](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0493-reverse-pairs) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -151,6 +155,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [0115-distinct-subsequences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0152-maximum-product-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
 ## Two Pointers
 |  |
