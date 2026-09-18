@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int insertposition(int arr[], int n, int x)
+{
+    int low = 0;
+    int high = n - 1;
+    int ans = n;
+
+    while (low <= high)
+    {
+        int mid = (low + high) / 2;
+
+        if (arr[mid] >= x)
+        {
+            ans = mid;
+            high = mid - 1;
+        }
+        else
+        {
+            low = mid + 1;
+        }
+    }
+
+    return ans;
+}
+
+int main()
+{
+    int arr[4] = {1, 2, 4, 7};
+    int n = 4;
+    int x = 6;
+
+    printf("%d", insertposition(arr, n, x));
+
+    return 0;
+}
