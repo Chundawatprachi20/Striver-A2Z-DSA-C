@@ -36,6 +36,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
@@ -215,4 +216,8 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1401-circle-and-rectangle-overlapping) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
