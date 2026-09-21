@@ -60,6 +60,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -116,6 +117,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [1927-sum-game](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -162,6 +164,7 @@ I am following Striver's A2Z DSA Sheet and solving the problems in C.
 | [0940-distinct-subsequences-ii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/1872-stone-game-viii) |
+| [3524-find-x-value-of-array-i](https://github.com/Chundawatprachi20/Striver-A2Z-DSA-C/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
